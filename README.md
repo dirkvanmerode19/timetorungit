@@ -1,2 +1,5 @@
 # timetorungit
-Eerste repo
+Eerste **repo**
+
+## Inleiding
+Lorem ipsum
